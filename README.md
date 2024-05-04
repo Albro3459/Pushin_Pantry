@@ -1,6 +1,6 @@
 # Team-10
 
-This is our group's recipe search website, Pushin' Pantry
+This is our "group's" recipe search website, Pushin' Pantry
 
 
 ### Client URL:
